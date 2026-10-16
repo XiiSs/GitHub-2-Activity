@@ -1,4 +1,4 @@
 Activities performed:
 1. Created a shared repository.
 2. Invited a partner as a collaborator.
- 
+3. Collaborator create a file in my github. 
